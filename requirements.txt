@@ -1,0 +1,3 @@
+# Passive Header & CORS Auditor
+# No third-party dependencies required.
+# This project uses Python standard library only (Python 3.10+).
